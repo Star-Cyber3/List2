@@ -1,0 +1,119 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#settings {
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 80px;   /* Height of the footer */
+}
+
+#settings {
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+#github {
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 60px;
+    height: 45px;
+    width: 45px;
+}
+
+#settingGroup {
+    background-color: lightblue;
+    text-align: center;
+    width: 540px;
+    height: 50px;
+    display: none;
+}
+
+#settingTab0 {
+    width: 350px;
+}
+
+#textInput {
+    border-radius: 10px;
+}
+
+#submit {
+    border-radius: 10px;
+    background-color: white;
+}
+
+#reset {
+    border-radius: 10px;
+    background-color: white;
+}
+
+.textSettings1 {
+    color: grey;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.textSettings {
+    color: grey;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.removeLine {
+    color: red;
+    position: fixed;
+    right: 30px;
+    font-size: x-large;
+}
+
+.removeLine:hover {
+    cursor: pointer;
+}
+
+.check:hover {
+    cursor: pointer;
+}
+
+.editInput1 {
+    height: 15px;
+    font-size: large;
+    border: none;
+    font-family: "Times New Roman", Times, serif;
+    max-width: 93%;
+    width: 93%;
+    color: black;
+    text-decoration: none;
+}
+
+.editInput {
+    height: 15px;
+    font-size: large;
+    border: none;
+    font-family: "Times New Roman", Times, serif;
+    max-width: 93%;
+    width: 93%;
+    color: grey;
+    text-decoration: line-through;
+}
+
+.editInput:focus {
+    outline-width: 0;
+}
+
+.editInput1:focus {
+    outline-width: 0;
+}
