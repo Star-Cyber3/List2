@@ -52,4 +52,4 @@ You can request a feature in the discussion Feature Request. Go to discussions >
 Go to the discussion Feature Request and see if there are any new ideas. If there are you can reply to the comment underneath. Please reply to the comment if you think this is a good idea or bad idea. Go to discussions > Ideas > Feature Request, or [click this link](https://github.com/Star-Cyber3/List/discussions/30 "Link to go to discussion").
 
 # Contributing
-Please see [CONTRIBUTING.md](https://github.com/Star-Cyber3/List/blob/194290ed91c5718990f871eaf71321f33e8387cb/.github/CONTRIBUTING.md). Feel free to edit but do a pull request or fork.  
+Please do not contribute. This is a private copy of List. 
